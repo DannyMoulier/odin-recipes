@@ -1,0 +1,34 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+.title {
+    text-align: center;
+    background-color: rgb(160, 160, 160);
+}
+
+.lasagna,
+.pizza {
+    background-color: antiquewhite;
+}
+
+.sloppy-joe,
+.chocolate-cake  {
+    background-color: rgb(185, 131, 69);
+}
+
+img {
+    width: 300px;
+    height: auto;
+    
+}
+
+
+h3 {
+    text-align: center;
+}
+
+#food-list {
+    text-align: center;
+}
