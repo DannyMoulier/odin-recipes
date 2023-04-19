@@ -5,23 +5,18 @@
 
 .title {
     text-align: center;
-    background-color: rgb(160, 160, 160);
+    background-color: rgb(132, 190, 197);
+    font-size: 250px;
 }
 
-.lasagna,
-.pizza {
+.recipe  {
     background-color: antiquewhite;
 }
 
-.sloppy-joe,
-.chocolate-cake  {
-    background-color: rgb(185, 131, 69);
-}
 
 img {
     width: 300px;
     height: auto;
-    
 }
 
 
